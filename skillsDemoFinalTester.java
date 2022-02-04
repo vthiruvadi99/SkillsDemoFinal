@@ -3,6 +3,6 @@ import org.junit.*;
 public class skillsDemoFinalTester {
     @Test
     public void division(){
-        assertEquals(5,skillsDemoFinal.divide(15,5));
+        assertEquals(3,skillsDemoFinal.divide(15,5));
     }
 }
